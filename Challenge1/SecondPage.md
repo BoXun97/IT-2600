@@ -22,7 +22,7 @@ Culturally, due to the tremendously popular novel Romance of the Three Kingdoms 
 >> 2. Zhang Fei was shown to have been a masterful general rather than simply a warrior. He treated his superiors with respect, but had little respect for his underlings. He was often warned by Liu Bei that his habit of over-punishing his own soldiers by lashing and killing would eventually bring himself disaster. Zhang Fei married Xiahou Yuan's daughter, who was captured by Zhang Fei's troops as she was out gathering firewood. They had a total of two daughters, and the older daughter became the empress of Shu Han after marrying Liu Shan, with Zhuge Liang as the matchmaker. After Zhang Fei's eldest daughter had passed away due to natural causes, Zhuge Liang once again played the role of matchmaker, and Liu Shan married Zhang Fei's younger daughter, who thus succeeded her older sister to become the empress of Shu Han. Zhang Fei is best portrayed through his description and actions depicted in Records of Three Kingdoms biography by Chen Shou. Some claim that Zhang Fei was also an excellent painter. Zhang Fei was killed by his own men Zhang Da and Fan Jiang, while preparing his troops to attack the rival Eastern Wu to avenge the death of Guan Yu. Zhang Da and Fan Jiang went on to defect to Wu.
 
 
-![Error](http://img2.imgtn.bdimg.com/it/u=869070139,1339424491&fm=11&gp=0.jpg)
+![Error](http://img1.imgtn.bdimg.com/it/u=3552277516,3227320369&fm=26&gp=0.jpg)
 
 ---
 
