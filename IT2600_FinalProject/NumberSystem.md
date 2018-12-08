@@ -48,3 +48,12 @@ Characteristics of hexadecimal number system are as follows：
 5. Last position in a hexadecimal number represents a x power of the base (16). Example 16ˣ where x represents the last position -1
 
 ---
+
+<br/>
+<dl>
+  <dt>Designer:</dt>
+  <dd>Boao Huang</dd>
+  
+  <dt>Date:</dt>
+  <dd>12/07/2018</dd>
+</dl>
