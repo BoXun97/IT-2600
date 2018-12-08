@@ -24,7 +24,7 @@
 - **OSI Model**
     >  is a conceptual model that characterizes and standardizes the communication functions of a telecommunication or computing system without regard to its underlying internal structure and technology.
 
-- **TCP/IP Protocol Model
+- **TCP/IP Protocol Model**
     > TCP/IP, or the Transmission Control Protocol/Internet Protocol, is a suite of communication protocols used to interconnect network devices on the internet. TCP/IP can also be used as a communications protocol in a private network (an intranet or an extranet).
 ---
 [Return Back](README.md)
