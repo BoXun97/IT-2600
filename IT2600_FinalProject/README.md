@@ -1,3 +1,5 @@
+![Error](/IT2600_FinalProject/Networks.png)
+
 # **Digital Networks**
   - Boao Huang
 
