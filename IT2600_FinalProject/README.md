@@ -4,6 +4,7 @@
 **This work presents the fundamental principle of computer networks.** 
 **It provide basic explanation and guidance for students who are just getting started with digital networks.**
 ---
+
 ## Contents
 
  - You can do lots of things with a computer but, connect it up to other computers and peripherals (the general name given to add-on bits of computer equipment such as modems, inkjet and laser printers, and scanners) and you can do an awful lot more. A computer network is simply a collection of computer equipment that's connected with wires, optical fibers, or wireless links so the various separate devices (known as nodes) can "talk" to one another and swap data (computerized information).
