@@ -12,12 +12,12 @@
  ##### *Number system*
  ```sh
  Numbers are symbols that we use to represent quantities. Binary, octal, decimal and hexadecimal are four number systems used frequently in computing and networking. 
- View  ....
+ [View more information](NumberSystem.md)
 ```
 
  ##### *Types of Network*                                                                           
 ```sh
  Not all computer networks are the same. This part will explain the structures and functions of some computer networks.
- viwe.. 
+ [View more information](TypesOfNetwork.md)
 ```
 
