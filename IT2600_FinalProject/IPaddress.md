@@ -17,3 +17,14 @@
 > The setup is similar to real-life address systems. For example, if you were to subscribe to a magazine, the magazine distributor (the sender) would need your address to send you (the recipient) your copies. Without your address, the distributors wouldn’t know where to send the magazine.
 
 > The same applies to the internet. Without an IP address, two devices would not be able to find and exchange information with each other.
+---
+[Return Back](README.md)
+---
+<br/>
+<dl>
+  <dt>Designer:</dt>
+  <dd>Boao Huang</dd>
+  
+  <dt>Date:</dt>
+  <dd>12/07/2018</dd>
+</dl>
