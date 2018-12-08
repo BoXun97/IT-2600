@@ -9,7 +9,7 @@
  
  ##### *Number system*
  ```sh
- Numbers are symbols that we use to represent quantities.  Binary, octal, decimal and hexadecimal are four number systems used frequently in computing and networking. 
+ Numbers are symbols that we use to represent quantities. Binary, octal, decimal and hexadecimal are four number systems used frequently in computing and networking. 
  View  ....
 ```
 
