@@ -11,13 +11,12 @@
  
  ##### *Number system*
  ```sh
- Numbers are symbols that we use to represent quantities. Binary, octal, decimal and hexadecimal are four number systems used frequently in computing and networking. 
- [View more information](NumberSystem.md)
+ Numbers are symbols that we use to represent quantities. Binary, octal, decimal and hexadecimal are four number systems used frequently in computing and networking. A numeral system (or system of numeration) is a writing system for expressing numbers; that is, a mathematical notation for representing numbers of a given set, using digits or other symbols in a consistent manner. The same sequence of symbols may represent different numbers in different numeral systems. 
 ```
+[View more information](NumberSystem.md)
 
  ##### *Types of Network*                                                                           
 ```sh
- Not all computer networks are the same. This part will explain the structures and functions of some computer networks.
- [View more information](TypesOfNetwork.md)
+ Not all computer networks are the same. This part will explain the structures and functions of some computer networks. Different types of private networks are distinguished based on their sizes (in terms of the number of machines), their data transfer speeds, and their reach. 
 ```
-
+[View more information](TypesOfNetwork.md)
