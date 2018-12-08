@@ -15,11 +15,17 @@
 ---
 ### Different Types of Network Models
 
-- **Reference model**
+- **Reference Model**
     > describes the functions that must be completed at a particular layer, but does not specify exactly how a function should be accomplished. Not intended to provide detail to define how each protocol should work at each layer. The primary purpose of is to aid in clearer understanding of the functions and processes necessary for network communications. 
 
-- **Protocol model**
+- **Protocol Model**
     > closely matches the structure of a particular protocol suite. A protocol suite includes the set of related protocols that typically provide all the functionality required for people to communicate with the data network. The TCP/IP model is a protocol model, because it describes the functions that occur at each layer of protocols within the TCP/IP suite.
+
+- **OSI Model**
+    >  is a conceptual model that characterizes and standardizes the communication functions of a telecommunication or computing system without regard to its underlying internal structure and technology.
+
+- **TCP/IP Protocol Model
+    > TCP/IP, or the Transmission Control Protocol/Internet Protocol, is a suite of communication protocols used to interconnect network devices on the internet. TCP/IP can also be used as a communications protocol in a private network (an intranet or an extranet).
 ---
 [Return Back](README.md)
 ---
